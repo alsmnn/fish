@@ -16,7 +16,7 @@
 Install with [Fisher](https://github.com/jorgebucaran/fisher):
 
 ```console
-fisher install rose-pine/fish
+fisher install alsmnn/fish
 ```
 
 Install manually:
